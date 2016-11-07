@@ -26,17 +26,17 @@ This module includes a discussion thread to introduce yourself, and suggested re
 WEEK 2
 History and Chronology
 10 videos, 1 reading
-[ ] Video: History and Chronology Part 1
-[ ] Video: History and Chronology Part 2
-[ ] Video: History and Chronology Part 3
-[ ] Video: History and Chronology Part 4
-[ ] Video: History and Chronology Part 5
-[ ] Video: History and Chronology Part 6
-[ ] Video: History and Chronology Part 7
-[ ] Video: History and Chronology Part 8
-[ ] Video: History and Chronology Part 9
-[ ] Video: History and Chronology Part 10
-[ ] Discussion Prompt: The Kingdoms vs. the Intermediate Periods
+[x] Video: History and Chronology Part 1
+[x] Video: History and Chronology Part 2
+[x] Video: History and Chronology Part 3
+[x] Video: History and Chronology Part 4
+[x] Video: History and Chronology Part 5
+[x] Video: History and Chronology Part 6
+[x] Video: History and Chronology Part 7
+[x] Video: History and Chronology Part 8
+[x] Video: History and Chronology Part 9
+[x] Video: History and Chronology Part 10
+[x] Discussion Prompt: The Kingdoms vs. the Intermediate Periods
 [ ] Reading: Suggested & Further Reading
 [ ] Graded: History and Chronology Quiz
 
