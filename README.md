@@ -36,9 +36,9 @@ History and Chronology
 [x] Video: History and Chronology Part 8
 [x] Video: History and Chronology Part 9
 [x] Video: History and Chronology Part 10
-[x] Discussion Prompt: The Kingdoms vs. the Intermediate Periods
+[ ] Discussion Prompt: The Kingdoms vs. the Intermediate Periods
 [ ] Reading: Suggested & Further Reading
-[ ] Graded: History and Chronology Quiz
+[x] Graded: History and Chronology Quiz
 
 WEEK 3
 The Pharaoh and Kingship
