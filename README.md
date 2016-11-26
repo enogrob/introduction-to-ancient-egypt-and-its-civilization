@@ -36,33 +36,33 @@ History and Chronology
 [x] Video: History and Chronology Part 8
 [x] Video: History and Chronology Part 9
 [x] Video: History and Chronology Part 10
-[ ] Discussion Prompt: The Kingdoms vs. the Intermediate Periods
-[ ] Reading: Suggested & Further Reading
+[x] Discussion Prompt: The Kingdoms vs. the Intermediate Periods
+[x] Reading: Suggested & Further Reading
 [x] Graded: History and Chronology Quiz
 
 WEEK 3
 The Pharaoh and Kingship
 7 videos, 1 reading
-[ ] Video: The Pharaoh and Kingship Part 1
-[ ] Video: The Pharaoh and Kingship Part 2
-[ ] Video: The Pharaoh and Kingship Part 3
-[ ] Video: The Pharaoh and Kingship Part 4
-[ ] Video: The Pharaoh and Kingship Part 5
-[ ] Video: The Pharaoh and Kingship Part 6
-[ ] Video: The Pharaoh and Kingship Part 7
-[ ] Discussion Prompt: Ancient Egyptian Kingship vs. Modern Leadership
-[ ] Reading: Suggested & Further Reading
-[ ] Graded: The Pharaoh and Kingship Quiz
+[x] Video: The Pharaoh and Kingship Part 1
+[x] Video: The Pharaoh and Kingship Part 2
+[x] Video: The Pharaoh and Kingship Part 3
+[x] Video: The Pharaoh and Kingship Part 4
+[x] Video: The Pharaoh and Kingship Part 5
+[x] Video: The Pharaoh and Kingship Part 6
+[x] Video: The Pharaoh and Kingship Part 7
+[x] Discussion Prompt: Ancient Egyptian Kingship vs. Modern Leadership
+[x] Reading: Suggested & Further Reading
+[x] Graded: The Pharaoh and Kingship Quiz
 
 WEEK 4
 [ ] Gods and Goddesses
 11 videos, 1 reading
-[ ] Video: Gods and Goddesses Part 1
-[ ] Video: Gods and Goddesses Part 2
-[ ] Video: Gods and Goddesses Part 3
-[ ] Video: Gods and Goddesses Part 4
-[ ] Video: Gods and Goddesses Part 5
-[ ] Video: Gods and Goddesses Part 6
+[x] Video: Gods and Goddesses Part 1
+[x] Video: Gods and Goddesses Part 2
+[x] Video: Gods and Goddesses Part 3
+[x] Video: Gods and Goddesses Part 4
+[x] Video: Gods and Goddesses Part 5
+[x] Video: Gods and Goddesses Part 6
 [ ] Video: Gods and Goddesses Part 7
 [ ] Video: Gods and Goddesses Part 8
 [ ] Video: Gods and Goddesses Part 9
