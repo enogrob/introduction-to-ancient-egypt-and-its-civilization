@@ -63,31 +63,31 @@ WEEK 4
 [x] Video: Gods and Goddesses Part 4
 [x] Video: Gods and Goddesses Part 5
 [x] Video: Gods and Goddesses Part 6
-[ ] Video: Gods and Goddesses Part 7
-[ ] Video: Gods and Goddesses Part 8
-[ ] Video: Gods and Goddesses Part 9
-[ ] Video: Gods and Goddesses Part 10
-[ ] Video: Gods and Goddesses Part 11
-[ ] Discussion Prompt: Your Favorite Creation Myth
-[ ] Reading: Suggested & Further Reading
-[ ] Graded: Gods and Goddesses Quiz
+[x] Video: Gods and Goddesses Part 7
+[x] Video: Gods and Goddesses Part 8
+[x] Video: Gods and Goddesses Part 9
+[x] Video: Gods and Goddesses Part 10
+[x] Video: Gods and Goddesses Part 11
+[x] Discussion Prompt: Your Favorite Creation Myth
+[x] Reading: Suggested & Further Reading
+[x] Graded: Gods and Goddesses Quiz
 
 WEEK 5
 The Pyramids and the Sphinx
 10 videos, 1 reading
-[ ] Video: The Pyramids and the Sphinx Part 1
-[ ] Video: The Pyramids and the Sphinx Part 2
-[ ] Video: The Pyramids and the Sphinx Part 3
-[ ] Video: The Pyramids and the Sphinx Part 4
-[ ] Video: The Pyramids and the Sphinx Part 5
-[ ] Video: The Pyramids and the Sphinx Part 6
-[ ] Video: The Pyramids and the Sphinx Part 7
-[ ] Video: The Pyramids and the Sphinx Part 8
-[ ] Video: The Pyramids and the Sphinx Part 9
-[ ] Video: The Pyramids and the Sphinx Part 10
-[ ] Discussion Prompt: Evolution of Royal Burials
-[ ] Reading: Suggested & Further Reading
-[ ] Graded: The Pyramids and the Sphinx Quiz
+[x] Video: The Pyramids and the Sphinx Part 1
+[x] Video: The Pyramids and the Sphinx Part 2
+[x] Video: The Pyramids and the Sphinx Part 3
+[x] Video: The Pyramids and the Sphinx Part 4
+[x] Video: The Pyramids and the Sphinx Part 5
+[x] Video: The Pyramids and the Sphinx Part 6
+[x] Video: The Pyramids and the Sphinx Part 7
+[x] Video: The Pyramids and the Sphinx Part 8
+[x] Video: The Pyramids and the Sphinx Part 9
+[x] Video: The Pyramids and the Sphinx Part 10
+[x] Discussion Prompt: Evolution of Royal Burials
+[x] Reading: Suggested & Further Reading
+[x] Graded: The Pyramids and the Sphinx Quiz
 
 WEEK 6
 [ ] Mummies and Mummification
